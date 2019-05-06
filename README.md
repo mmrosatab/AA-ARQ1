@@ -1,2 +1,3 @@
 # AA-Arquitetura1
-Atividade acadêmica de Arquitetura 1. Algoritmos utilizando registradores vetoriais 
+
+Este repositório se destina a Atividade Acadêmica da disciplina de Arquitetura e Organização de Computadores I da UFRRJ. A atividade consiste no desenvolvimento de algoritmos utilizando registradores vetoriais. 
